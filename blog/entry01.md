@@ -11,7 +11,7 @@ Edp, also known as the _Engineering Design Process_ is a problem solving method 
 I say I am in this step because I have already constructed a general idea of the project in my head, what topic I will pick, how I will relate and contribute that project into modern technology and coding, but have not yet had a stable guaranteed base of what my website will be designed as, and I am neither on step 4, **Plan the most promising solution**
 as I do not yet have a 100% sure way of the structure of my descriptions and overall website design.
 
-#### Skills
+### Skills
 
 Some skills, or ways that I have been developing in through the help of this blog but also of everyday life is **Collaboration** and **How to Google**. The reason I say these two skills specifically is because of time managment and efficiency. In order to maximize my time working on projects for multiple classes and also just simply for convience, ive learned to use many shortcuts available of the chromebook such as _control+c and control+v_ to copy and paste things, and using **Control+F** to find specific words on pages that I might have thought was siginifcant but lost track of it throughout the reading. 
 
