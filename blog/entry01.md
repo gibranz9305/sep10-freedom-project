@@ -10,6 +10,11 @@ For my sources, I am using **[links like these](https://kosciuskoconnect.com/blo
 Edp, also known as the _Engineering Design Process_ is a problem solving method that people use to address a challenge by following steps, like researching. As this blog can be applied to this process, I can safely say that I am currently in step 4 of the process, which is **_Brainstorm possible solutions_**. I say I am in this step because I have already constructed a general idea of the project in my head, what topic I will pick, how I will relate and contribute that project into modern technology and coding, but have not yet had a stable guaranteed base of what my website will be designed as, and I am neither on step 4, **Plan the most promising solution**
 as I do not yet have a 100% sure way of the structure of my descriptions and overall website design.
 
+#### Skills
+
+Some skills, or ways that I have been developing in through the help of this blog but also of everyday life is **Collaboration** and **How to Google**. The reason I say these two skills specifically is because of time managment and efficeny. In order to maximize my time working on projects for multiple classes and also just simply for convience, ive learned to use many shortcuts available of the chromebook such as _control+c and control+v_ to copy and paste things, and using **Control+F** to find specific words on pages that I might have thought was siginifcant but lost track of it throughout the reading. I also said that I was growing in collabortaion skills as I have learned to first try my best, trying different methods and trying to steer away from methods that are incorrect. If I am stuck, then I will use the help of my classmates or others to not provide me with the answer, but give me general tips that allow me to think and get the correct answer or goal without just giving it to me. This also helps me contribute with others in groupa activities or in scenarios with more than 1 person.
+
+
 
 Text
 
