@@ -16,8 +16,8 @@ Topic: **X**
 * 2nd google search "Technology used in cooking"
   * Technology used in cooking can refer to "smart" appliances, precison tools, AI powered and voice controled ovens.
 * 2nd website I looked at [here](https://www.wptasty.com/best-cooking-apps)
-  *The _Tasty_ app is a cooking app that has video guided recipes, cooking tips, and more.
-  *The app gives step by step instructions. Available on IOS and Adroid devices.
+  * The _Tasty_ app is a cooking app that has video guided recipes, cooking tips, and more.
+  * The app gives step by step instructions. Available on IOS and Adroid devices.
 
 ## Part B: possible future technology
 * Idea
