@@ -6,7 +6,7 @@ For my sources, I used google searches like "technology used in cooking" to find
 ## EDP
 Currently at my project, I believe I am at step 3 of the *EDP* (_Engineering Design Process_) as I have still not planned the most *promising* solution, which is step 4. I am still brainstorming and planning how I will organize and execute my creative project, through my notes and blogs like this one. I belive I will be at step 4 when I can finish my planning and know what my final information will be that I can apply towards my project.
 ## Skills
-Some skills I have been developing in are Communication and Problem Composition.
+Some skills I have been developing in are Communication and Problem Composition. The reason 
 
 
 
