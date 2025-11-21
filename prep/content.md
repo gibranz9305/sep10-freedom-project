@@ -10,7 +10,7 @@ Topic: **X**
 ## Part A: existing technology
 * *Least Complex*
 * Cooking Apps
-* 1st website I looked [at](https://medium.com/@prausev/whisk-the-ultimate-cooking-app-ca0207b5b2ce)
+* 1st website I looked [at](https://medium.com/@prausev/whisk-the-ultimate-cooking-app-ca0207b5b2ce) ![](https://www.whiskapp.net/assets/Icon.png)
   * This app can organize ingredient lists and instructions.
   * This app offers recipies that its users can use
   * This app allows you to add ingreidents of a recipie to a shopping list
