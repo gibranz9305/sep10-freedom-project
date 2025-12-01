@@ -7,16 +7,18 @@ Topic: **X**
 * This site will look at some cooking technological innovations that make cooking easier and enjoyable, and are used in everyday life.
   
 
-## Part A: existing technology
-* *Least Complex*
-* Cooking Apps
-* 1st website I looked [at](https://medium.com/@prausev/whisk-the-ultimate-cooking-app-ca0207b5b2ce) ![](https://www.whiskapp.net/assets/Icon.png)
+## Part A: Present Technology
+Apps
+* *Cooking Apps*
+* Whisk App [here](https://medium.com/@prausev/whisk-the-ultimate-cooking-app-ca0207b5b2ce) ![](https://www.whiskapp.net/assets/Icon.png)
   * This app can organize ingredient lists and instructions.
   * This app offers recipies that its users can use
   * This app allows you to add ingreidents of a recipie to a shopping list
   * Can review the "health score" of different foods
+*PlateJoy*
+  
     
-* Second website
+Appliances
   * Technology used in cooking can refer to "smart" appliances, precison tools, AI powered and voice controled ovens.
 * 2nd website I looked at [here](https://www.wptasty.com/best-cooking-apps)
   * The _Tasty_ app is a cooking app that has video guided recipes, cooking tips, and more.
@@ -37,6 +39,6 @@ Smart Refrigirators
 
   These refigirators besides providing basic cooling allow you to remotely change its temperature, give you recipies based on whats in your fridge, entertainment options with touchscreens, and inventory managament.
 
-## Part B: possible future technology
+## Part B: Future technology
 * Idea
   * Detail
