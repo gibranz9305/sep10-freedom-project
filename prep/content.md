@@ -15,8 +15,15 @@ Apps
   * This app offers recipies that its users can use
   * This app allows you to add ingreidents of a recipie to a shopping list
   * Can review the "health score" of different foods
-*PlateJoy*
-  
+    
+### PlateJoy
+* This apps review can be seen [here](https://www.deliveryrank.com/reviews/platejoy)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHGjlyvzwXcK-GVkgnlqBqREd7Xge3liuMQ&s)
+  * This app can help with healthy eating
+  * Sections for breakfast, lunch, and dinner.
+  * The app contains customizable meal plans, and diverse recipies
+  * The recipies include vegan, keto, and gluten-free.
+  * It integrates with services like _Instacart_
     
 Appliances
   * Technology used in cooking can refer to "smart" appliances, precison tools, AI powered and voice controled ovens.
@@ -24,7 +31,7 @@ Appliances
   * The _Tasty_ app is a cooking app that has video guided recipes, cooking tips, and more.
   * The app gives step by step instructions. Available on IOS and Adroid devices.
     
- *More Complex*
+*Technological Advances*
   
  3D Food Printing
   
@@ -40,5 +47,10 @@ Smart Refrigirators
   These refigirators besides providing basic cooling allow you to remotely change its temperature, give you recipies based on whats in your fridge, entertainment options with touchscreens, and inventory managament.
 
 ## Part B: Future technology
-* Idea
-  * Detail
+* Smart Robot Cooker
+ ![Smart Cooker](https://drive.google.com/uc?export=view&id=1udhZNcgtHmFIBZZA9aRFT361CaAS210a)
+This cooker can cook food at the perfect temperature, giving the perfect flavor based on what you are feeling. It uses next-level furturistic technology to deliver food that you will guareenteed to like.
+
+* Personal Robot Chef
+![](https://thumbs.dreamstime.com/b/robot-chef-cooking-delicious-meal-futuristic-kitchen-futuristic-robot-chef-prepares-meal-modern-kitchen-using-smart-359824156.jpg)
+This robot chef can listen to orders, and create any dish that you want. All you have to do is speak to it, and it will suddendly create all of the ingredidents it needs. It can also teach people how to cook, and can create cooking utensils out of thin air.
