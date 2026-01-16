@@ -3,8 +3,13 @@ I brainstormed part B, which is possible tech inventions for cooking in the futu
 
 # Sources
 Besides using the websites above, I looked at reviews which cover these websites and say why they are so good. 
+
 # EDP
-Currently in the *Engineering Design Process*, known as the _EDP_. I am step 4. Step 4 is planning the most promising solution. I believe 
+Currently in the *Engineering Design Process*, known as the _EDP_. I am step 4. Step 4 is planning the most promising solution. I believe that I am in step 4 because I have already brainstormed how I want my website to look, and am currently planning what information I will put in it (websites etc.) I dont think I am at step 5 yet, Create a prototype because I havent put my plans and information on my website yet. 
+
+# Skills
+Skills I have been developing since the last blog are Problem decomposition and Time Management. I have been developing these skills since I broke the blog into many different pieces. I worked on each piece on by one which helped me with organization. Another skill I have developed is Time managment. I have developed time management alongside problem decomposition as when I organized my blog into many different parts, it helped me complete it faster.
+
 
 Text
 
