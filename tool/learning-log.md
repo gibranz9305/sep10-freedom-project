@@ -4,7 +4,8 @@
 # Day 1
 .Use previous knowledge of shapes like box, cone, cylinder, triangle, sphere to create model of part B freedom project
 .Learn through documentation and videos on how to use lighting for `<a-scene>`
-.Learn through documentation 
+.Learn through documentation how to make it reponsive
+
 
 <!--
 * Links you used today (websites, videos, etc)
