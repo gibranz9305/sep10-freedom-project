@@ -1,17 +1,12 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **A frame**
+# Day 1
+.Use previous knowledge of shapes like box, cone, cylinder, triangle, sphere to create model of part B freedom project
+.Learn through documentation and videos on how to use lighting for `<a-scene>`
+.Learn through documentation 
 
----
-
-### X/X/XX:
-* Text
-
-### X/X/XX:
-* Text
-
-
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
