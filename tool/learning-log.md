@@ -7,6 +7,7 @@
 .Learn through documentation how to make it reponsive
 
 
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
