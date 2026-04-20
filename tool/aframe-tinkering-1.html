@@ -5,7 +5,7 @@
   </head>
   <body>
     <a-scene>
-<!DOCTYPE html>
+      <!DOCTYPE html>
 <html>
   <head>
     <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
@@ -25,8 +25,6 @@
       <!-- Eyes (glowing) -->
       <a-sphere position="0.18 1.08 0.42" radius="0.09" color="#00FFCC"></a-sphere>
       <a-sphere position="-0.18 1.08 0.42" radius="0.09" color="#00FFCC"></a-sphere>
-
-      <!-- Eye glow inner -->
       <a-sphere position="0.18 1.08 0.44" radius="0.04" color="#FFFFFF"></a-sphere>
       <a-sphere position="-0.18 1.08 0.44" radius="0.04" color="#FFFFFF"></a-sphere>
 
@@ -35,42 +33,87 @@
       <a-box position="0 0.85 0.42" width="0.08" height="0.04" depth="0.01" color="#2C3E50"></a-box>
       <a-box position="0.12 0.85 0.42" width="0.08" height="0.04" depth="0.01" color="#2C3E50"></a-box>
 
-      <!-- Antenna -->
-      <a-cylinder position="0 1.55 0" radius="0.03" height="0.25" color="#A8B8C8"></a-cylinder>
-      <a-sphere position="0 1.69 0" radius="0.06" color="#FF4455"></a-sphere>
-
-      <!-- Chef hat -->
-      <a-cylinder position="0 1.78 0" radius="0.38" height="0.08" color="#F0F0F0"></a-cylinder>
-      <a-cylinder position="0 2.13 0" radius="0.28" height="0.62" color="#FAFAFA"></a-cylinder>
-      <a-sphere position="0 2.45 0" radius="0.285" color="#FAFAFA"
+      <!-- Chef hat sitting directly on head top (head top = y=1.4) -->
+      <!-- Brim -->
+      <a-cylinder position="0 1.44 0" radius="0.42" height="0.08" color="#F0F0F0"></a-cylinder>
+      <!-- Hat body -->
+      <a-cylinder position="0 1.79 0" radius="0.3" height="0.62" color="#FAFAFA"></a-cylinder>
+      <!-- Hat dome -->
+      <a-sphere position="0 2.11 0" radius="0.302" color="#FAFAFA"
         phi-start="0" phi-length="180" theta-start="0" theta-length="90"></a-sphere>
 
       <!-- Neck -->
       <a-cylinder position="0 0.55 0" radius="0.12" height="0.2" color="#8A9BAA"></a-cylinder>
 
-      <!-- Body (chunky torso) -->
+      <!-- Body -->
       <a-box position="0 0 0" width="1.1" height="1.2" depth="0.6" color="#8A9BAA"></a-box>
 
       <!-- === OVEN PANEL === -->
-      <!-- Oven outer frame (recessed into chest) -->
       <a-box position="0 0.05 0.31" width="0.72" height="0.72" depth="0.03" color="#3D4F5C"></a-box>
-
-      <!-- Oven window (dark glass) -->
       <a-box position="0 0.1 0.33" width="0.54" height="0.46" depth="0.02" color="#1A1A2E"></a-box>
-
-      <!-- Oven window inner glow (orange-ish, like heat inside) -->
       <a-box position="0 0.1 0.34" width="0.46" height="0.38" depth="0.01" color="#FF6B1A"></a-box>
-
-      <!-- Heating element lines (horizontal bars inside window) -->
       <a-box position="0 0.22 0.345" width="0.38" height="0.025" depth="0.005" color="#FF2200"></a-box>
       <a-box position="0 0.1 0.345" width="0.38" height="0.025" depth="0.005" color="#FF2200"></a-box>
       <a-box position="0 -0.02 0.345" width="0.38" height="0.025" depth="0.005" color="#FF2200"></a-box>
-
-      <!-- Oven shelf line -->
       <a-box position="0 0.02 0.345" width="0.42" height="0.012" depth="0.005" color="#8A6A40"></a-box>
+      <a-box position="0 -0.17 0.35" width="0.44" height="0.045" depth="0.04" color="#C0C8D0"></a-box>
+      <a-box position="0 -0.26 0.32" width="0.64" height="0.1" depth="0.02" color="#2C3E50"></a-box>
+      <a-cylinder position="-0.2 -0.26 0.34" radius="0.035" height="0.02" rotation="90 0 0" color="#A8B8C8"></a-cylinder>
+      <a-cylinder position="0 -0.26 0.34" radius="0.035" height="0.02" rotation="90 0 0" color="#A8B8C8"></a-cylinder>
+      <a-cylinder position="0.2 -0.26 0.34" radius="0.035" height="0.02" rotation="90 0 0" color="#A8B8C8"></a-cylinder>
+      <a-box position="-0.2 -0.235 0.34" width="0.005" height="0.02" depth="0.005" color="#FF4455"></a-box>
+      <a-box position="0 -0.235 0.34" width="0.005" height="0.02" depth="0.005" color="#FFCC00"></a-box>
+      <a-box position="0.2 -0.235 0.34" width="0.005" height="0.02" depth="0.005" color="#00FFCC"></a-box>
+      <!-- ================= -->
 
-      <!-- Oven door handle -->
-      <a-box position="0 -0.17 0.35" width="0.44" height="></a-box>
+      <!-- Shoulders -->
+      <a-sphere position="0.65 0.5 0" radius="0.18" color="#A8B8C8"></a-sphere>
+      <a-sphere position="-0.65 0.5 0" radius="0.18" color="#A8B8C8"></a-sphere>
+
+      <!-- Upper arms -->
+      <a-cylinder position="0.82 0.18 0" radius="0.11" height="0.62" rotation="0 0 -20" color="#A8B8C8"></a-cylinder>
+      <a-cylinder position="-0.82 0.18 0" radius="0.11" height="0.62" rotation="0 0 20" color="#A8B8C8"></a-cylinder>
+
+      <!-- Elbow joints -->
+      <a-sphere position="0.92 -0.18 0" radius="0.12" color="#7A9AAF"></a-sphere>
+      <a-sphere position="-0.92 -0.18 0" radius="0.12" color="#7A9AAF"></a-sphere>
+
+      <!-- Forearms (angled slightly outward) -->
+      <a-cylinder position="0.98 -0.52 0" radius="0.09" height="0.62" rotation="0 0 -10" color="#A8B8C8"></a-cylinder>
+      <a-cylinder position="-0.98 -0.52 0" radius="0.09" height="0.62" rotation="0 0 10" color="#A8B8C8"></a-cylinder>
+
+      <!-- Hands (boxy) -->
+      <a-box position="1.02 -0.88 0" width="0.22" height="0.22" depth="0.22" color="#7A9AAF"></a-box>
+      <a-box position="-1.02 -0.88 0" width="0.22" height="0.22" depth="0.22" color="#7A9AAF"></a-box>
+
+      <!-- Hips -->
+      <a-box position="0 -0.7 0" width="1.0" height="0.2" depth="0.55" color="#6B8799"></a-box>
+
+      <!-- Hip joints -->
+      <a-sphere position="0.28 -0.78 0" radius="0.14" color="#7A9AAF"></a-sphere>
+      <a-sphere position="-0.28 -0.78 0" radius="0.14" color="#7A9AAF"></a-sphere>
+
+      <!-- Upper legs -->
+      <a-cylinder position="0.28 -1.08 0" radius="0.15" height="0.5" color="#8A9BAA"></a-cylinder>
+      <a-cylinder position="-0.28 -1.08 0" radius="0.15" height="0.5" color="#8A9BAA"></a-cylinder>
+
+      
+      <a-sphere position="0.28 -1.35 0" radius="0.14" color="#7A9AAF"></a-sphere>
+      <a-sphere position="-0.28 -1.35 0" radius="0.14" color="#7A9AAF"></a-sphere>
+
+      <!-- Lower legs -->
+      <a-cylinder position="0.28 -1.58 0" radius="0.12" height="0.4" color="#8A9BAA"></a-cylinder>
+      <a-cylinder position="-0.28 -1.58 0" radius="0.12" height="0.4" color="#8A9BAA"></a-cylinder>
+
+      <!-- Feet -->
+      <a-box position="0.28 -1.72 0.08" width="0.32" height="0.1" depth="0.45" color="#6B8799"></a-box>
+      <a-box position="-0.28 -1.72 0.08" width="0.32" height="0.1" depth="0.45" color="#6B8799"></a-box>
+
+      <a-light type="ambient" intensity="0.6"></a-light>
+      <a-light type="directional" position="2 4 2" intensity="0.9"></a-light>
+    </a-scene>
+  </body>
+</html>
     </a-scene>
   </body>
 </html>
