@@ -11,6 +11,11 @@
 .Build model of robot part B
 finish with coloring and design
 try to make it responsive learn through documentation
+.Add color to sky and floor
+.Add depth to parts of robot to look better
+# Color
+finish the coloring
+
 
 <!--
 * Links you used today (websites, videos, etc)
