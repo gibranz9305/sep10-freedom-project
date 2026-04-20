@@ -4,23 +4,44 @@
   </head>
   <body>
     <a-scene>
-     <a-plane color="#964B00" rotation="-90 0 0" width="10" height="5" position="0 -1.7 0"></a-plane>
-     <a-sky color="#FFFFFF"></a-sky>
-     <a-sphere position="0 1 0" radius="0.5" color="#FF5733"></a-sphere>
-     <a-cylinder position="0 1.52 0" radius="0.38" height="0.08" color="white"></a-cylinder>
-     <a-cylinder position="0 1.87 0" radius="0.28" height="0.62" color="white"></a-cylinder>
-      <a-sphere position="0 2.19 0" radius="0.285" color="white"
-  phi-start="0" phi-length="180" theta-start="0" theta-length="90"></a-sphere>
-        <a-sphere position="0.2 1.2 0.4" radius="0.1" color="white"></a-sphere>
+     <!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <!-- Ground -->
+      <a-plane color="#8B6F47" rotation="-90 0 0" width="10" height="5" position="0 -1.7 0"></a-plane>
+      <!-- Sky -->
+      <a-sky color="#D6EAF8"></a-sky>
 
-        <a-sphere position="-0.2 1.2 0.4" radius="0.1" color="white"></a-sphere>
-        <a-box position="0 0 0" width="1" height="1.5" depth="0.5" color="#3357FF"></a-box>
+      <!-- Head -->
+      <a-sphere position="0 1 0" radius="0.5" color="#FDDBB4"></a-sphere>
 
-        <a-cylinder position="0.7 0 0" radius="0.1" height="1" color="#FFC300"></a-cylinder>
-        <a-cylinder position="-0.7 0 0" radius="0.1" height="1" color="#FFC300"></a-cylinder>
+      <!-- Chef hat -->
+      <a-cylinder position="0 1.52 0" radius="0.38" height="0.08" color="#F0F0F0"></a-cylinder>
+      <a-cylinder position="0 1.87 0" radius="0.28" height="0.62" color="#FAFAFA"></a-cylinder>
+      <a-sphere position="0 2.19 0" radius="0.285" color="#FAFAFA"
+        phi-start="0" phi-length="180" theta-start="0" theta-length="90"></a-sphere>
 
-        <a-cylinder position="0.25 -1.2 0" radius="0.15" height="1" color="#333"></a-cylinder>
-        <a-cylinder position="-0.25 -1.2 0" radius="0.15" height="1" color="#333"></a-cylinder>
+      <!-- Eyes -->
+      <a-sphere position="0.2 1.2 0.4" radius="0.1" color="#3B2F2F"></a-sphere>
+      <a-sphere position="-0.2 1.2 0.4" radius="0.1" color="#3B2F2F"></a-sphere>
+
+      <!-- Body / apron -->
+      <a-box position="0 0 0" width="1" height="1.5" depth="0.5" color="#E8E0D0"></a-box>
+
+      <!-- Arms -->
+      <a-cylinder position="0.7 0 0" radius="0.1" height="1" color="#FFC300"></a-cylinder>
+      <a-cylinder position="-0.7 0 0" radius="0.1" height="1" color="#FFC300"></a-cylinder>
+
+      <!-- Legs -->
+      <a-cylinder position="0.25 -1.2 0" radius="0.15" height="1" color="#4A3728"></a-cylinder>
+      <a-cylinder position="-0.25 -1.2 0" radius="0.15" height="1" color="#4A3728"></a-cylinder>
+    </a-scene>
+  </body>
+</html>
     </a-scene>
     </body>
 </html>
