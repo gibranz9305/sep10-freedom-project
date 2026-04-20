@@ -15,6 +15,8 @@ try to make it responsive learn through documentation
 .Add depth to parts of robot to look better
 # Color
 finish the coloring
+make it look better
+add depth to more parts
 
 
 <!--
