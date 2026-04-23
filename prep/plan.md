@@ -1,14 +1,17 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/hDXGMN)
+* [Desktop](https://wireframe.cc/hDXGMN)
 
 ## Colors
-* `#ABC123`
+* Grey
+* Blue
+* White
+* Black
 
 ## Fonts
-* [Text](URL)
+* [Inter](URL)
 
 ## Timeline
 
@@ -29,7 +32,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
