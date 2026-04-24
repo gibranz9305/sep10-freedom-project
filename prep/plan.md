@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile](https://wireframe.cc/hDXGMN)
-* [Desktop](https://wireframe.cc/hDXGMN)
+* [Mobile]()
+* [Desktop]()
 
 ## Colors
 * Grey
