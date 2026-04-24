@@ -24,7 +24,7 @@ Added wireframes to plan.md
 Begin coding, adding navbar at the start
 Look at fonts, and color scheme for the website
 Enable github pages
-
+Start with context heading and text
 ---
 
 #### Beyond MVP
