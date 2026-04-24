@@ -19,7 +19,9 @@
 #### MVP
 
 * Task/Timeline
-
+* 4/24
+Added wireframes to plan.md
+Begin coding, adding navbar at the start
 ---
 
 #### Beyond MVP
