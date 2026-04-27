@@ -7,7 +7,7 @@ I learned my tool _Aframe_ through the documentation provided [here](https://afr
 
 Using the basic shapes, and changing the colors of them to match, including the sky, and making a floor.
 ## Skills
-Some ways I am developing in outside of my project is _Time managment_ and _Problem decomposition_. I have used the skills of *Time managment*, by already completitng some of this blog in class, getting ahead of the assignment making it easier to complete as homework at home. This allows me to spent time on other assignments or thing I have to do during the day. Im developing in the skill of problem decomposition
+Some ways I am developing in outside of my project is _Time managment_ and _Problem decomposition_. I have used the skills of *Time managment*, by already completitng some of this blog in class, getting ahead of the assignment making it easier to complete as homework at home. This allows me to spent time on other assignments or thing I have to do during the day. Im developing in the skill of problem decomposition by breaking down the blog into section, completitng half of in on a different day and finishing it on the next. This helps me because 
 
 
 [Previous](entry04.md) | [Next](entry06.md)
