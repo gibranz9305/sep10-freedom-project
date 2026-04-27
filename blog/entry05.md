@@ -5,7 +5,7 @@ Alongside giving you shapes, Aframe also has lighting and different sky colors y
 ## Sources
 I learned my tool _Aframe_ through the documentation provided [here](https://aframe.io/docs/1.7.0/introduction/). This gave me an introduction, learning how you could make shapes simply by making tags with a infront. Like `<a-square>` and `<a-triangle>`. Through the introduction, I saw you could also change the width and height of different shapes, as well as positioning them in different spots on the x, y, and z axis. You could also change the colors of said shapes, including the sky in which your model exists in, with the tag `color=""` I saw all the possible shapes I could use [here](https://aframe.io/docs/1.7.0/components/geometry.html). After this, I started build a basic model of a robot using my knowledge of the shapes. Using the basic shapes, and changing the colors of them to match, including the sky, and making a floor.
 ## Skills
-
+Some ways I am developing in outside of my project is 
 
 
 [Previous](entry04.md) | [Next](entry06.md)
