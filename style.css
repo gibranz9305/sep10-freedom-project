@@ -1,0 +1,26 @@
+body{
+    background-color: #f5f0e6;
+}
+.navbar {
+  background-color: #f5f0e6 !important;
+  font-size: 1.2rem;
+  border-bottom: 2px solid #001f3f;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .navbar-toggler {
+  color: #001f3f !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+  color: #003366 !important;
+}
+
+.navbar .navbar-toggler-icon {
+  filter: invert(12%) sepia(98%) saturate(2000%) hue-rotate(190deg) brightness(90%) contrast(95%);
+}
+.cookingtitle{
+    color:
+}
