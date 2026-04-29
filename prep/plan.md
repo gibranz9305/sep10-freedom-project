@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Desktop](![alt text](<Screenshot 2026-04-29 9.15.49 AM.png>))
+* [Mobile](![alt text](<Screenshot 2026-04-29 9.15.37 AM.png>))
 
 ## Colors
 * Grey
@@ -26,6 +26,7 @@ Look at fonts, and color scheme for the website
 Enable github pages
 Start with context heading and text
 ---
+* 4/27
 
 #### Beyond MVP
 
