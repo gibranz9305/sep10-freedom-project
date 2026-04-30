@@ -17,10 +17,11 @@ body{
 .navbar .navbar-brand:hover {
   color: #003366 !important;
 }
-
-.navbar .navbar-toggler-icon {
-  filter: invert(12%) sepia(98%) saturate(2000%) hue-rotate(190deg) brightness(90%) contrast(95%);
+#cookingtitle{
+    color: #001f3f;
 }
-.cookingtitle{
-    color:
+#current-tech-heading{
+  text-align: center;
+  margin-top: 50px;
+  color: #001f3f;
 }
