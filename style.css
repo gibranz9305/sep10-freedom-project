@@ -25,3 +25,20 @@ body{
   margin-top: 50px;
   color: #001f3f;
 }
+#apps{
+  text-align:center;
+  margin-top: 60px;
+  color: #001f3f;
+}
+#whisk{
+  width: 400px;
+  margin-left: 50px;
+}
+.image-text{
+  display: flex;
+  align-items:center;
+  gap: 10px;
+}
+.image-text img{
+  width: 80px;
+}
