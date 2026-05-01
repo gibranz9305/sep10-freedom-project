@@ -1,22 +1,20 @@
 body{
-    background-color: #f5f0e6;
+    background-color: #E2CEB1;
 }
 .navbar {
-  background-color: #f5f0e6 !important;
+  background-color: #E2CEB1 !important;
   font-size: 1.2rem;
-  border-bottom: 2px solid #001f3f;
+  border-bottom: 2px solid #000000;
 }
-
+p {
+  color: #1c2e4a;
+}
 .navbar .navbar-brand,
 .navbar .nav-link,
 .navbar .navbar-toggler {
-  color: #001f3f !important;
+  color: #1c2e4a !important;
 }
 
-.navbar .nav-link:hover,
-.navbar .navbar-brand:hover {
-  color: #003366 !important;
-}
 #cookingtitle{
     color: #001f3f;
 }
@@ -42,3 +40,10 @@ body{
 .image-text img{
   width: 80px;
 }
+.app-item{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 35px;
+}
+
