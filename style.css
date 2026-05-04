@@ -52,11 +52,13 @@ p {
 #advancement-heading{
   text-align: center;
   margin-top: 70px;
-  color: #001f3f
+  color: #001f3f;
 }
 .card-body{
   background-color: #94776A;
 }
 .future-heading{
-  
+  text-align: center;
+  margin-top: 70px;
+  color: #001f3f;
 }
