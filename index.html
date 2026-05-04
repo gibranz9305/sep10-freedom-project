@@ -123,8 +123,7 @@ class="d-block mx-auto img-fluid my-4">
   </div>
 </div>
 <h2 id="personal-chef">Personal Robot Chef</h2>
-<head>
-    <html>
+<html>
   <head>
     <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
     <style>
@@ -132,7 +131,16 @@ class="d-block mx-auto img-fluid my-4">
         width: 100%;
         height: 500px;
       }
- <section id="robot-section">
+
+      #robot-section a-scene {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+
+    <section id="robot-section">
       <a-scene embedded>
         <a-plane
           rotation="-90 0 0"
@@ -176,9 +184,6 @@ class="d-block mx-auto img-fluid my-4">
                width="1.6" height="1.6" depth="0.8"
                color="#b8b8b8">
         </a-box>
-
-        <!-- continue the rest of your robot code here -->
-
       </a-scene>
     </section>
 
