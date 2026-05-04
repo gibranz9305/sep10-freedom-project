@@ -24,13 +24,9 @@ p {
   color: #001f3f;
 }
 #apps{
-  text-align:center;
+  text-align: center;
   margin-top: 60px;
   color: #001f3f;
-}
-#whisk{
-  width: 400px;
-  margin-left: 50px;
 }
 .image-text{
   display: flex;
@@ -41,10 +37,23 @@ p {
   width: 80px;
 }
 .app-item{
-  display: flex;
-  align-items: center;
-  gap: 40px;
-  margin-bottom: 35px;
+  display: grid;
+ grid-template-columns: 260px 1fr;
+ align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
 }
-
-
+.app-item img{
+  width: 250px;
+  height: 250px;
+  object-fit: contain;
+  display: block;
+}
+#advancement-heading{
+  text-align: center;
+  margin-top: 70px;
+  color: #001f3f
+}
+.card-body{
+  background-color: #94776A;
+}
