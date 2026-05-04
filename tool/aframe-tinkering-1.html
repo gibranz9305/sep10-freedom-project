@@ -1,0 +1,123 @@
+Here’s a simple **robot frame** using HTML/CSS with:
+
+- **grey body parts**
+- **cylinder arms sticking out**
+- **arms shaped like cylinders**
+- **a rectangular chest**
+- **a darker grey square on top**
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Robot Frame</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #f2f2f2;
+    }
+
+    .robot {
+      position: relative;
+      width: 320px;
+      height: 320px;
+    }
+
+    .torso {
+      position: absolute;
+      left: 50%;
+      top: 70px;
+      transform: translateX(-50%);
+      width: 170px;
+      height: 190px;
+      background: #b8b8b8;
+      border: 4px solid #8a8a8a;
+      box-sizing: border-box;
+    }
+
+    .top-square {
+      position: absolute;
+      left: 50%;
+      top: 15px;
+      transform: translateX(-50%);
+      width: 70px;
+      height: 70px;
+      background: #7a7a7a;
+      border: 4px solid #666;
+      box-sizing: border-box;
+    }
+
+    .chest {
+      position: absolute;
+      left: 50%;
+      top: 95px;
+      transform: translateX(-50%);
+      width: 120px;
+      height: 80px;
+      background: #a9a9a9;
+      border: 4px solid #7f7f7f;
+      box-sizing: border-box;
+    }
+
+    .arm {
+      position: absolute;
+      top: 145px;
+      width: 110px;
+      height: 28px;
+      background: linear-gradient(to bottom, #c4c4c4, #8f8f8f);
+      border: 4px solid #777;
+      border-radius: 999px;
+      box-sizing: border-box;
+    }
+
+    .arm.left {
+      left: 0;
+      transform: rotate(0deg);
+    }
+
+    .arm.right {
+      right: 0;
+      transform: rotate(0deg);
+    }
+
+    .joint {
+      position: absolute;
+      top: 138px;
+      width: 26px;
+      height: 42px;
+      background: #9b9b9b;
+      border: 4px solid #777;
+      border-radius: 999px;
+      box-sizing: border-box;
+    }
+
+    .joint.left {
+      left: 100px;
+    }
+
+    .joint.right {
+      right: 100px;
+    }
+  </style>
+</head>
+<body>
+  <div class="robot">
+    <div class="top-square"></div>
+    <div class="torso">
+      <div class="chest"></div>
+    </div>
+
+    <div class="joint left"></div>
+    <div class="joint right"></div>
+
+    <div class="arm left"></div>
+    <div class="arm right"></div>
+  </div>
+</body>
+</html>
