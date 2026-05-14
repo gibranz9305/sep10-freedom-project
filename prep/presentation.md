@@ -1,18 +1,21 @@
 # Presentation Plan
 
 ## Hook
-* Did you know
+* Did you know that your microwave is more powerful than the computer that landed humans on the Moon?
 
 ## Product
-* 
-
+* Brief overview for what I found on part A, explain part B show image of aframe
 ## Process
-*
+* Explain how i learned aframe throughout many weeks, show an exmaple of aframe model
 
 ## Conclusion
-*
+* Takeaways
+Minimalism
+While presenting, its better to have minimal text on your slides and instead speak out what you want to say. Having alot of text on your slides can make people confused, and your given an opportunity to use body language
+Procrastination
+Making google slides, it might feel like you can save it until the last day because it seems so simple, however you might find yourself on a time crunch, leading to sloppy work. You should try to do a small amount each day so by the due date you might be done or have a comfortable amount of time to do your work.
 
-<!-- EXAMPLE
+!-- EXAMPLE
 
 ## Hook
 * Verbal riddle of GGD

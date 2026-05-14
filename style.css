@@ -1,8 +1,8 @@
 body{
-    background-color: #001f3f;
+    background-color: #C6AC8F;
 }
 .navbar {
-  background-color: #332D87 !important;
+  background-color: #C6AC8F !important;
   font-size: 1.2rem;
   border-bottom: 2px solid #FFFFFF;
   position: sticky;
@@ -15,7 +15,7 @@ p {
 .navbar .navbar-brand,
 .navbar .nav-link,
 .navbar .navbar-toggler {
-  color: #FFFFFF !important;
+  color: #000000 !important;
 }
 
 #cookingtitle{
@@ -58,7 +58,7 @@ p {
   color: #001f3f;
 }
 .card-body{
-  background-color: #001f3f;
+  background-color: #C6AC8F;
 }
 #future-heading{
   text-align: center;
@@ -71,7 +71,7 @@ p {
   color: #001f3f;
 }
 .card-bodyrobo{
- background-color: #332D87;
+ background-color: #C6AC8F;
 }
 #personal-chef{
   text-align: center;
@@ -79,7 +79,7 @@ p {
   color: #001f3f;
 }
 .card-bodydesc{
-  background-color: #332D87;
+  background-color:  #C6AC8F;
 };
 }
 
