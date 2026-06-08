@@ -1,7 +1,18 @@
 # Entry 7
-##### X/X/XX
 
-Text
+## Content
+
+I had to present my freedom project to my classmates. I thought I did alright, and later I asked them how I did and they said good. As I was building my website, and getting ready to present, I had a few takeaways from the whole experience. Here are some examples.
+
+[My presentation plan](prep/presentation.md)
+
+*Good things take time, dont procrastinate*
+
+During my freedom project, I struggled to incorporate my a-frame model into my freedom project, so you could freely move the camera around and interact with it in a specific box. To solve this problem, I kept looking throught a-frame documentation and I watched videos to learn the code that went into it. I then learned it was using the code `<a-frame: embedded>`, so the aframe scene could be added onto an external website. I feel like if I did my project later, I would have been more stressed as I tried to balance my work with my time to go to sleep. This could lead to sloppier work, or maybe incomplete work when it came time to hand in and present my project. I feel like not procrastinating here was key to finishing it.
+
+*Cooking has been very revolutionary*
+
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
