@@ -4,7 +4,7 @@
 
 I had to present my freedom project to my classmates. I thought I did alright, and later I asked them how I did and they said good. As I was building my website, and getting ready to present, I had a few takeaways from the whole experience. Here are some examples.
 
-[My presentation plan](prep/presentation.md)
+[My presentation plan](prep/presentation.md) []
 
 *Good things take time, dont procrastinate*
 
@@ -12,7 +12,7 @@ During my freedom project, I struggled to incorporate my a-frame model into my f
 
 *Cooking has been very revolutionary*
 
-As i researched my freedom project, i learned how cooking has evolved over time, and it is amazing. People went 
+As i researched my freedom project, i learned how cooking has evolved over time, and it is amazing. People went from cooking food on fires, to making machines that can cook foods certain ways, adding technology onto things like stoves and refrigrators and making robots that can server and take your orders.
 
 
 
