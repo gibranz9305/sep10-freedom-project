@@ -22,7 +22,7 @@ I dont think this was necessary but being in a science fair type of area in the 
 
 # EDP
 
-At this point in the *EDP* also known as Engineering design process, I think I am at step 8, 
+At this point in the *EDP* also known as Engineering design process, I think I am at step 8, which is communicate the results. I believe I am at this step because I already gave a google slides presentation about my project to my classmates, and recieved feedback. I also have presented in the expo
 
 
 
