@@ -12,6 +12,8 @@ During my freedom project, I struggled to incorporate my a-frame model into my f
 
 *Cooking has been very revolutionary*
 
+As i researched my freedom project, i learned how cooking has evolved over time, and it is amazing. People went 
+
 
 
 [Previous](entry06.md) | [Next](entry08.md)
