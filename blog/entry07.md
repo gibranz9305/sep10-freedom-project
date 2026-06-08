@@ -26,6 +26,7 @@ At this point in the *EDP* also known as Engineering design process, I think I a
 
 # Skills
 
+Some of the skills I have practiced with the elevator pitch and the presentation is *Communication* and *Time managment* I say these 2 skills because I had to speak in front of the class,
 
 
 
