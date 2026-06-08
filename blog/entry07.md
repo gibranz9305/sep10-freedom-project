@@ -14,7 +14,11 @@ During my freedom project, I struggled to incorporate my a-frame model into my f
 
 As i researched my freedom project, i learned how cooking has evolved over time, and it is amazing. People went from cooking food on fires, to making machines that can cook foods certain ways, adding technology onto things like stoves and refrigrators and making robots that can server and take your orders.
 
-I also practiced an elevator pitch, giving a short 1 minute speech to people in a cafeteria about my project, and they could ask me questions after. 
+I also practiced an elevator pitch, giving a short 1 minute speech to people in a cafeteria about my project, and they could ask me questions after. I felt like it was very nice to talk about my project i spent a whole year on researching to a bunch of people from the school. One of the takeaways I had was
+
+### Being approachable
+
+I dont think this was necessary but 
 
 
 
