@@ -20,7 +20,9 @@ I also practiced an elevator pitch, giving a short 1 minute speech to people in 
 
 I dont think this was necessary but being in a science fair type of area in the cafeteria, I felt like you should be approachable so people would feel inclined to come to your project and learn about it, although the judges would come to you regardless, most of the people are not judges and so I feel like looking like you are open to sharing about your project is very important.
 
+# EDP
 
+At this point in the *EDP* also known as Engineering design process, I think I am at step 8, 
 
 
 
